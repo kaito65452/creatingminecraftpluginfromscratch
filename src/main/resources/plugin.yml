@@ -1,0 +1,7 @@
+name: Scratch-Plugin
+version: dev+Alpha+1.0.0
+main: com.kaito.pluginfromscratch.ScratchPlugin
+description: In short, plugins for learning Java
+author: [kaito65452, Muhammad Saryu Elvano]
+website: https://github.com/kaito65452/creatingminecraftpluginfromscratch
+api-version: 1.21
